@@ -9,3 +9,7 @@ Saving varies by the type of work you are doing:
 -- *Git repositories that you clone into the Sandbox are NOT automatically saved.* In this case, you are responsible for committing and pushing your work to GitHub. 
 
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
+
+ sandwitch = "chop chesse"
+ => "chop chesse"
+2.6.1 :002 > put " I want to eat a #{sandwitch} right now"
